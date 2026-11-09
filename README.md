@@ -22,15 +22,15 @@ An independent desktop client that brings the Locket photo-sharing experience to
 
 | Language | Share |
 | :--- | ---: |
-| TypeScript | 70.8% |
-| Python | 7.6% |
+| TypeScript | 70.2% |
+| Python | 7.5% |
 | JavaScript | 5.5% |
-| PLpgSQL | 4.1% |
-| Swift | 4.1% |
+| Swift | 4.8% |
+| PLpgSQL | 4.0% |
 | CSS | 2.7% |
 | HTML | 1.9% |
 | C++ | 1.6% |
-| Go | 0.9% |
+| Go | 0.8% |
 | Shell | 0.4% |
 | Mermaid | 0.3% |
 | PowerShell | 0.1% |

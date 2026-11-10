@@ -18,8 +18,6 @@ An independent desktop client that brings the Locket photo-sharing experience to
 ## Programming languages
 
 <!-- LANGUAGE_STATS_START -->
-**19 languages detected** across my GitHub projects.
-
 | Language | Share |
 | :--- | ---: |
 | TypeScript | 70.2% |
@@ -42,5 +40,3 @@ An independent desktop client that brings the Locket photo-sharing experience to
 | Procfile | 0.0% |
 | C | 0.0% |
 <!-- LANGUAGE_STATS_END -->
-
-<sub>Updated automatically from my public and private GitHub repositories. Percentages reflect language byte counts detected by GitHub, not proficiency. Private repository names and source code are not published.</sub>

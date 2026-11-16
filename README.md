@@ -18,14 +18,16 @@ An independent desktop client that brings the Locket photo-sharing experience to
 ## Programming languages
 
 <!-- LANGUAGE_STATS_START -->
+**19 languages detected** across my GitHub projects.
+
 | Language | Share |
 | :--- | ---: |
-| TypeScript | 70.2% |
+| TypeScript | 70.0% |
 | Python | 7.5% |
-| JavaScript | 5.5% |
-| Swift | 4.8% |
+| JavaScript | 5.4% |
+| Swift | 5.2% |
 | PLpgSQL | 4.0% |
-| CSS | 2.7% |
+| CSS | 2.6% |
 | HTML | 1.9% |
 | C++ | 1.6% |
 | Go | 0.8% |
